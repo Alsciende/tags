@@ -1,9 +1,9 @@
 (function ($) {
-    
+
     var availableTags = [];
     var availableChampions = [];
-    
-    var tagsReceived = $.get('/json/data.json').then(function (data) {
+
+    var tagsReceived = $.get('../json/data.json').then(function (data) {
         var uniqueTags = {};
         data.forEach(function (champion) {
            champion.tags.forEach(function (tag) {
@@ -13,7 +13,7 @@
         availableTags = Object.keys(uniqueTags).sort();
         availableChampions = data;
     });
-          
+
     var documentReady = new Promise(function (resolve, reject) {
         $(resolve);
     });
@@ -29,7 +29,7 @@
         });
         refreshList();
     });
-    
+
     function refreshList() {
         var selectedOptions = $('#tags option:selected');
                 var selectedTags = [];
@@ -43,24 +43,24 @@
                 });
                 displayList(filteredChampions, selectedTags);
     }
-    
+
     function displayList(list, selectedTags) {
         $('#list').empty();
         list.forEach(function (champion) {
             displayChampion(champion, selectedTags);
         });
     }
-    
+
     function displayChampion(champion, selectedTags) {
         var $div = $('<div class="champion">');
         $div.addClass(champion.class);
 
         $img = $('<img class="portrait">').attr('src', 'http://hook.github.io/champions/images/champions/portrait_'+champion.code+'.png');
         $div.prepend($img);
-        
+
         $text = $('<div class="text">').appendTo($div);
         $name = $('<div class="name">').text(champion.name).appendTo($text);
-        
+
         $tags = $('<div class="tags">').appendTo($text);
         champion.tags.forEach(function (tag) {
             $span = $('<span class="tag">').text('#'+tag).appendTo($tags);
@@ -70,5 +70,5 @@
         });
         $('#list').append($div);
     }
-    
+
 })(jQuery);
