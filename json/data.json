@@ -3,498 +3,888 @@
         "code": "abomination",
         "name": "Abomination",
         "class": "science",
-        "tags": ["Defensive: Tank", "Villain", "Chronos Corps"]
+        "tags": ["Defensive: Tank", "Villain", "Chronos Corps", "Size: XL"]
+    },
+    {
+        "code": "aegon",
+        "name": "Ægon",
+        "class": "skill",
+        "tags": ["Offensive: Raw Damage", "Hero", "Size: M"]
     },
     {
         "code": "agentvenom",
         "name": "Agent Venom",
         "class": "skill",
-        "tags": ["Offensive: Damage Over Time", "Hero", "Guardians of the Galaxy", "Symbiote"]
+        "tags": ["Offensive: Damage Over Time", "Hero", "Guardians of the Galaxy", "Symbiote", "Size: M"]
+    },
+    {
+        "code": "angela",
+        "name": "Angela",
+        "class": "cosmic",
+        "tags": ["Offensive: Raw Damage", "Hero", "Metal", "Size: S"]
+    },
+    {
+        "code": "annihilus",
+        "name": "Annihilus",
+        "class": "cosmic",
+        "tags": []
     },
     {
         "code": "antman",
         "name": "Ant-Man",
         "class": "science",
-        "tags": ["Defensive: Tank", "Hero", "Metal", "Civil War - Cpt. America"]
+        "tags": ["Defensive: Tank", "Hero", "Metal", "Size: M"]
+    },
+    {
+        "code": "archangel",
+        "name": "Archangel",
+        "class": "mutant",
+        "tags": ["Offensive: Damage Over Time", "X-Men", "X-Force", "Hero", "Metal", "Size: M"]
     },
     {
         "code": "beast",
         "name": "Beast",
         "class": "mutant",
-        "tags": ["Offensive: Raw Damage", "Hero", "X-Men", "Illuminati"]
+        "tags": ["Offensive: Raw Damage", "Hero", "X-Men", "Illuminati", "Size: L"]
+    },
+    {
+        "code": "bishop",
+        "name": "Bishop",
+        "class": "mutant",
+        "tags": ["Offensive: Burst", "Hero", "X-Men", "Size: L"]
     },
     {
         "code": "blackbolt",
         "name": "Black Bolt",
         "class": "cosmic",
-        "tags": ["Offensive: Raw Damage", "Hero", "Illuminati", "Inhuman"]
+        "tags": ["Offensive: Raw Damage", "Hero", "Illuminati", "Inhuman", "Size: M"]
     },
     {
         "code": "blackpanther",
         "name": "Black Panther",
         "class": "skill",
-        "tags": ["Offensive: Damage Over Time", "Hero", "Illuminati", "Avengers"]
+        "tags": ["Offensive: Damage Over Time", "Hero", "Illuminati", "Avengers", "Size: M"]
     },
     {
         "code": "blackpanthercivilwar",
         "name": "Black Panther (Civil War)",
         "class": "skill",
-        "tags": ["Defensive: Guard", "Hero", "Civil War - Iron Man"]
+        "tags": ["Defensive: Guard", "Hero", "Avengers", "Size: M"]
     },
     {
         "code": "blackwidow",
         "name": "Black Widow",
         "class": "skill",
-        "tags": ["Offensive: Burst", "Mercenary", "S.H.I.E.L.D", "Civil War - Iron Man", "Champions"]
+        "tags": ["Offensive: Burst", "Mercenary", "S.H.I.E.L.D", "Champions", "Avengers", "Size: S"]
+    },
+    {
+        "code": "blade",
+        "name": "Blade",
+        "class": "skill",
+        "tags": ["Defensive: Utility", "Hero", "Size: M"]
+    },
+    {
+        "code": "cable",
+        "name": "Cable",
+        "class": "mutant",
+        "tags": ["Offensive: Burst", "Hero", "Metal", "X-Men", "X-Force", "Size: L"]
     },
     {
         "code": "captainamerica",
         "name": "Captain America",
         "class": "science",
-       "tags": ["Defensive: Guard", "Hero", "Avengers", "S.H.I.E.L.D", "Civil War - Cpt. America"]
+       "tags": ["Defensive: Guard", "Hero", "Avengers", "S.H.I.E.L.D", "Size: M"]
+    },
+    {
+        "code": "capamericaiw",
+        "name": "Captain America (Infinity War)",
+        "class": "science",
+        "tags": ["Defensive: Utility", "Hero", "Avengers", "Size: M"]
     },
     {
         "code": "captainamericawwii",
-        "name": "Captain America (WWII",
+        "name": "Captain America (WWII)",
         "class": "science",
-        "tags": ["Defensive: Guard", "Hero", "S.H.I.E.L.D"]
+        "tags": ["Defensive: Guard", "Hero", "S.H.I.E.L.D", "Size: M"]
+    },
+    {
+        "code": "captainmarvelmovie",
+        "name": "Captain Marvel",
+        "class": "cosmic",
+        "tags": ["Offensive: Raw Damage", "Hero", "Kree", "A-Force", "Size: S"]
     },
     {
         "code": "captainmarvel",
-        "name": "Captain Marvel",
+        "name": "Captain Marvel (Classic)",
         "class": "cosmic",
-        "tags": ["Offensive: Raw Damage", "Hero", "Avengers", "Kree", "A-Force"]
+        "tags": ["Offensive: Raw Damage", "Hero", "Kree", "A-Force", "Size: S"]
+    },
+    {
+        "code": "carnage",
+        "name": "Carnage",
+        "class": "cosmic",
+        "tags": ["Offensive: Raw Damage", "Villain", "Symbiote", "Size: M"]
     },
     {
         "code": "civilwarrior",
         "name": "Civil Warrior",
         "class": "tech",
-        "tags": ["Defensive: Guard", "Hero", "Metal", "Civil War - Iron Man", "Civil War - Cpt. America"]
+        "tags": ["Defensive: Guard", "Hero", "Metal", "Size: M"]
     },
     {
         "code": "colossus",
         "name": "Colossus",
         "class": "mutant",
-        "tags": ["Defensive: Guard", "Hero", "Metal", "X-Men", "X-Force"]
+        "tags": ["Defensive: Guard", "Hero", "Metal", "X-Men", "X-Force", "Size: L"]
+    },
+    {
+        "code": "corvusglaive",
+        "name": "Corvus Glaive",
+        "class": "cosmic",
+        "tags": ["Offensive: Burst", "Thanos's Army", "Size: M"]
     },
     {
         "code": "crossbones",
         "name": "Crossbones",
         "class": "skill",
-        "tags": ["Offensive: Raw Damage", "Villain", "Metal"]
+        "tags": ["Offensive: Raw Damage", "Villain", "Metal", "Size: L"]
     },
     {
         "code": "cyclops",
         "name": "Cyclops (New Xavier School)",
         "class": "mutant",
-        "tags": ["Offensive: Burst", "Hero", "X-Men"]
+        "tags": ["Offensive: Burst", "Villain", "X-Men", "Size: M"]
     },
     {
         "code": "cyclops90s",
         "name": "Cyclops (Blue Team)",
         "class": "mutant",
-        "tags": ["Offensive: Burst", "Hero", "X-Men"]
+        "tags": ["Offensive: Burst", "Hero", "X-Men", "Size: M"]
     },
     {
         "code": "daredevil",
         "name": "Daredevil (Classic)",
         "class": "skill",
-        "tags": ["Offensive: Raw Damage", "Hero", "Defenders"]
+        "tags": ["Offensive: Raw Damage", "Hero", "Defenders", "Size: M"]
     },
     {
         "code": "daredevilnetflix",
         "name": "Daredevil",
         "class": "skill",
-        "tags": ["Offensive: Raw Damage", "Hero", "Defenders"]
+        "tags": ["Offensive: Raw Damage", "Hero", "Defenders", "Size: M"]
+    },
+    {
+        "code": "darkhawk",
+        "name": "Darkhawk",
+        "class": "tech",
+        "tags": ["Defensive: Guard", "Hero", "Robot", "Metal", "Size: M"]
     },
     {
         "code": "deadpool",
         "name": "Deadpool",
         "class": "mutant",
-        "tags": ["Defensive: Utility", "Mercenary", "X-Men"]
+        "tags": ["Defensive: Utility", "Mercenary", "X-Men", "Size: M"]
     },
     {
         "code": "deadpoolxforce",
         "name": "Deadpool (X-Force)",
         "class": "mutant",
-        "tags": ["Offensive: Damage Over Time", "Mercenary", "X-Force"]
+        "tags": ["Offensive: Damage Over Time", "Mercenary", "X-Force", "Size: M"]
     },
     {
-        "code": "drax",
-        "name": "Drax",
-        "class": "cosmic",
-        "tags": ["Offensive: Damage Over Time", "Hero", "Guardians of the Galaxy"]
+        "code": "diablo",
+        "name": "Diablo",
+        "class": "mystic",
+        "tags": []
+    },
+    {
+        "code": "docock",
+        "name": "Doctor Octopus",
+        "class": "tech",
+        "tags": ["Control: Denial", "Metal", "Villain", "Sinister Six", "Size: M"]
     },
     {
         "code": "drstrange",
         "name": "Doctor Strange",
         "class": "mystic",
-        "tags": ["Control: Denial", "Hero", "Illuminati"]
+        "tags": ["Control: Denial", "Hero", "Illuminati", "Size: M"]
     },
     {
         "code": "brothervoodoo",
         "name": "Doctor Voodoo",
         "class": "mystic",
-        "tags": ["Control: Denial", "Hero", "Avengers", "S.H.I.E.L.D"]
+        "tags": ["Control: Denial", "Hero", "S.H.I.E.L.D", "Size: M"]
+    },
+    {
+        "code": "domino",
+        "name": "Domino",
+        "class": "mutant",
+        "tags": ["Offensive: Burst", "Hero", "Mercenary", "X-Men", "X-Force", "Size: S"]
+    },
+    {
+        "code": "dormammu",
+        "name": "Dormammu",
+        "class": "mystic",
+        "tags": ["Control: Denial", "Villain", "Dimensional Being", "Size: XL"]
+    },
+    {
+        "code": "drax",
+        "name": "Drax",
+        "class": "cosmic",
+        "tags": ["Offensive: Damage Over Time", "Hero", "Guardians of the Galaxy", "Size: L"]
     },
     {
         "code": "electro",
         "name": "Electro",
         "class": "science",
-        "tags": ["Offensive: Burst", "Villain", "Sinister Six", "Thunderbolts"]
+        "tags": ["Offensive: Burst", "Villain", "Sinister Six", "Thunderbolts", "Size: S"]
     },
     {
         "code": "elektra",
         "name": "Elektra",
         "class": "skill",
-        "tags": ["Offensive: Raw Damage", "Mercenary", "Defenders", "Thunderbolts"]
+        "tags": ["Offensive: Raw Damage", "Mercenary", "Defenders", "Thunderbolts", "Size: S"]
+    },
+    {
+        "code": "emmafrost",
+        "name": "Emma Frost",
+        "class": "mutant",
+        "tags": ["Defensive: Tank", "Hero", "X-Men", "Size: S"]
     },
     {
         "code": "falcon",
         "name": "Falcon",
         "class": "skill",
-        "tags": ["Control: Counter", "Hero", "Metal", "Civil War - Cpt. America"]
+        "tags": ["Control: Counter", "Hero", "Metal", "Avengers", "Size: M"]
     },
     {
         "code": "gambit",
         "name": "Gambit",
         "class": "mutant",
-        "tags": ["Offensive: Burst", "Hero", "X-Men"]
+        "tags": ["Offensive: Burst", "Hero", "X-Men", "Size: M"]
     },
     {
         "code": "gamora",
         "name": "Gamora",
         "class": "cosmic",
-        "tags": ["Offensive: Burst", "Hero", "Metal", "Guardians of the Galaxy"]
+        "tags": ["Offensive: Burst", "Hero", "Metal", "Guardians of the Galaxy", "Size: S"]
+    },
+    {
+        "code": "ghost",
+        "name": "Ghost",
+        "class": "tech",
+        "tags": ["Control: Counter", "Villain", "Metal", "Size: S"]
     },
     {
         "code": "ghostrider",
         "name": "Ghost Rider",
         "class": "mystic",
-        "tags": ["Control: Counter", "Hero", "Defenders", "Thunderbolts", "Champions"]
+        "tags": ["Control: Counter", "Hero", "Defenders", "Thunderbolts", "Champions", "Dimensional Being", "Size: M"]
+    },
+    {
+        "code": "goldpool",
+        "name": "Goldpool",
+        "class": "mutant",
+        "tags": []
+    },
+    {
+        "code": "greengoblin",
+        "name": "Green Goblin",
+        "class": "tech",
+        "tags": ["Offensive: Damage Over Time", "Villain", "Metal", "Sinister Six", "Size: M"]
     },
     {
         "code": "groot",
         "name": "Groot",
         "class": "cosmic",
-        "tags": ["Defensive: Tank", "Hero", "Guardians of the Galaxy"]
+        "tags": ["Defensive: Tank", "Hero", "Guardians of the Galaxy", "Size: XL"]
     },
     {
         "code": "guillotine",
         "name": "Guillotine",
         "class": "mystic",
-        "tags": ["Control: Counter", "Hero", "Metal"]
+        "tags": ["Control: Counter", "Hero", "Metal", "Size: S"]
+    },
+    {
+        "code": "gwenpool",
+        "name": "Gwenpool",
+        "class": "skill",
+        "tags": ["Offensive: Damage Over Time", "Mercenary", "Hero", "Metal", "Size: S"]
+    },
+    {
+        "code": "havok",
+        "name": "Havok",
+        "class": "mutant",
+        "tags": ["Offensive: Burst", "Hero", "X-Men", "Size: M"]
     },
     {
         "code": "hawkeye",
         "name": "Hawkeye",
         "class": "skill",
-        "tags": ["Offensive: Damage Over Time", "Hero", "Avengers", "S.H.I.E.L.D", "Civil War - Cpt. America"]
+        "tags": ["Offensive: Damage Over Time", "Hero", "Avengers", "S.H.I.E.L.D", "Size: M"]
+    },
+    {
+        "code": "heimdall",
+        "name": "Heimdall",
+        "class": "cosmic",
+        "tags": ["Control: Counter", "Hero", "Size: L"]
+    },
+    {
+        "code": "hela",
+        "name": "Hela",
+        "class": "cosmic",
+        "tags": ["Offensive: Raw Damage", "Villain", "Size: S"]
+    },
+    {
+        "code": "howardtheduck",
+        "name": "Howard The Duck",
+        "class": "tech",
+        "tags": ["Control: Counter", "Hero", "Metal", "Defenders", "Size: L"]
     },
     {
         "code": "hulk",
         "name": "Hulk",
         "class": "science",
-        "tags": ["Defensive: Tank", "Hero", "Illuminati", "Avengers"]
+        "tags": ["Defensive: Tank", "Hero", "Illuminati", "Avengers", "Size: XL"]
+    },
+    {
+        "code": "hulkragnarok",
+        "name": "Hulk (Ragnarok)",
+        "class": "science",
+        "tags": ["Offensive: Raw Damage", "Hero", "Avengers", "Size: XL"]
     },
     {
         "code": "hulkbuster",
         "name": "Hulkbuster",
         "class": "tech",
-        "tags": ["Defensive: Tank", "Hero", "Metal", "Avengers"]
+        "tags": ["Defensive: Tank", "Hero", "Metal", "Avengers", "Size: XL"]
+    },
+    {
+        "code": "humantorch",
+        "name": "Human Torch",
+        "class": "science",
+        "tags": ["Offensive: Damage Over Time", "Hero", "Flying", "Fantastic Four", "Size: M"]
+    },
+    {
+        "code": "hyperion",
+        "name": "Hyperion",
+        "class": "cosmic",
+        "tags": ["Defensive: Tank", "Hero", "New Avengers", "Size: L"]
+    },
+    {
+        "code": "iceman",
+        "name": "Iceman",
+        "class": "mutant",
+        "tags": ["Offensive: Damage Over Time", "Hero", "X-Men", "Size: M"]
     },
     {
         "code": "ironfist",
         "name": "Iron Fist",
         "class": "mystic",
-        "tags": ["Offensive: Burst", "Hero", "Defenders"]
+        "tags": ["Offensive: Burst", "Hero", "Defenders", "Size: S"]
     },
     {
         "code": "ironfistwhite",
         "name": "Immortal Iron Fist",
         "class": "mystic",
-        "tags": ["Offensive: Burst", "Hero", "New Avengers"]
+        "tags": ["Offensive: Burst", "Hero", "New Avengers", "Size: S"]
     },
     {
         "code": "ironman",
         "name": "Iron Man",
         "class": "tech",
-        "tags": ["Defensive: Guard", "Hero", "Metal", "Avengers", "Civil War - Iron Man"]
+        "tags": ["Defensive: Guard", "Hero", "Metal", "Avengers", "Size: M"]
+    },
+    {
+        "code": "ironmaniw",
+        "name": "Iron Man (Infinity War)",
+        "class": "tech",
+        "tags": ["Control: Counter", "Hero", "Avengers", "Metal", "Size: M"]
     },
     {
         "code": "ironpatriot",
         "name": "Iron Patriot",
         "class": "tech",
-        "tags": ["Defensive: Guard", "Hero", "Metal", "Sinister Six", "Thunderbolts"]
+        "tags": ["Defensive: Guard", "Villain", "Metal", "Sinister Six", "Thunderbolts", "Size: M"]
     },
     {
         "code": "joefixit",
         "name": "Joe Fixit",
         "class": "science",
-        "tags": ["Defensive: Utility", "Villain", "Villain of the Contest"]
+        "tags": ["Defensive: Utility", "Villain", "Villain of the Contest", "Size: XL"]
     },
     {
         "code": "juggernaut",
         "name": "Juggernaut",
         "class": "mystic",
-        "tags": ["Defensive: Tank", "Villain", "Thunderbolts"]
+        "tags": ["Defensive: Tank", "Villain", "Thunderbolts", "Size: XL"]
     },
     {
-        "code": "kamalakhan",
-        "name": "Ms. Marvel (Kamala Khan)",
-        "class": "cosmic",
-        "tags": ["Offensive: Raw Damage", "Hero", "Inhuman", "Champions", "A-Force"]
-    },
-    {
-        "code": "karlmordo",
-        "name": "Mordo",
-        "class": "mystic",
-        "tags": ["Control: Counter", "Villain"]
+        "code": "kang",
+        "name": "Kang",
+        "class": "tech",
+        "tags": []
     },
     {
         "code": "karnak",
         "name": "Karnak",
         "class": "skill",
-        "tags": ["Offensive: Raw Damage", "Mercenary", "Inhuman"]
+        "tags": ["Offensive: Raw Damage", "Mercenary", "Inhuman", "Size: M"]
+    },
+    {
+        "code": "killmonger",
+        "name": "Killmonger",
+        "class": "skill",
+        "tags": ["Defensive: Utility", "Offensive: Burst", "Villain", "Size: M"]
+    },
+    {
+        "code": "grootking",
+        "name": "King Groot",
+        "class": "cosmic",
+        "tags": ["Offensive: Raw Damage", "Villain", "Villain of the Contest", "Size: XL"]
+    },
+    {
+        "code": "kingpin",
+        "name": "Kingpin",
+        "class": "skill",
+        "tags": ["Offensive: Raw Damage", "Villain", "Size: XL"]
+    },
+    {
+        "code": "korg",
+        "name": "Korg",
+        "class": "skill",
+        "tags": ["Defensive: Tank", "Hero", "Size: L"]
     },
     {
         "code": "loki",
         "name": "Loki",
         "class": "mystic",
-        "tags": ["Control: Denial", "Villain", "Villain of the Contest"]
+        "tags": ["Control: Denial", "Villain", "Villain of the Contest", "Size: M"]
     },
     {
         "code": "lukecage",
         "name": "Luke Cage",
         "class": "science",
-        "tags": ["Defensive: Guard", "Mercenary", "Defenders", "Thunderbolts"]
+        "tags": ["Defensive: Guard", "Mercenary", "Defenders", "Thunderbolts", "Size: L"]
+    },
+    {
+        "code": "modok",
+        "name": "M.O.D.O.K.",
+        "class": "science",
+        "tags": ["Defensive: Guard", "Metal", "Villain", "Size: XL"]
     },
     {
         "code": "magik",
-        "name": "Magik", 
+        "name": "Magik",
         "class": "mystic",
-        "tags": ["Control: Denial", "Hero", "X-Men", "S.H.I.E.L.D"]
+        "tags": ["Control: Denial", "Hero", "X-Men", "S.H.I.E.L.D", "Dimensional Being", "Size: S"]
     },
     {
         "code": "magneto",
         "name": "Magneto",
         "class": "mutant",
-        "tags": ["Offensive: Damage Over Time", "Villain", "Illuminati", "X-Force"]
+        "tags": ["Offensive: Damage Over Time", "Villain", "Illuminati", "X-Force", "Size: M"]
     },
     {
         "code": "magnetomarvelnow",
         "name": "Magneto (Marvel Now!)",
         "class": "mutant",
-        "tags": ["Offensive: Damage Over Time", "Hero", "X-Men"]
+        "tags": ["Offensive: Damage Over Time", "Villain", "X-Men", "Size: M"]
+    },
+    {
+        "code": "masacre",
+        "name": "Masacre",
+        "class": "skill",
+        "tags": ["Offensive: Damage Over Time", "Mercenary", "Size: M"]
+    },
+    {
+        "code": "medusa",
+        "name": "Medusa",
+        "class": "cosmic",
+        "tags": ["Offensive: Burst", "Hero", "Inhuman", "Inhuman Royal Family", "Size: S"]
+    },
+    {
+        "code": "mephisto",
+        "name": "Mephisto",
+        "class": "mystic",
+        "tags": ["Offensive: Damage Over Time", "Villain", "Dimensional Being", "Size: M"]
+    },
+    {
+        "code": "mistersinister",
+        "name": "Mister Sinister",
+        "class": "mutant",
+        "tags": ["Control: Denial", "Villain", "Size: L"]
     },
     {
         "code": "moonknight",
         "name": "Moon Knight",
         "class": "skill",
-        "tags": ["Offensive: Raw Damage", "Mercenary", "Defenders"]
+        "tags": ["Offensive: Raw Damage", "Mercenary", "Defenders", "Size: M"]
+    },
+    {
+        "code": "karlmordo",
+        "name": "Mordo",
+        "class": "mystic",
+        "tags": ["Control: Counter", "Villain", "Size: M"]
+    },
+    {
+        "code": "morningstar",
+        "name": "Morningstar",
+        "class": "mystic",
+        "tags": ["Offensive: Raw Damage", "Metal", "Villain", "Dimensional Being", "Size: L"]
     },
     {
         "code": "msmarvel",
         "name": "Ms. Marvel",
         "class": "cosmic",
-        "tags": ["Offensive: Raw Damage", "Hero", "Avengers", "Kree", "A-Force"]
+        "tags": ["Offensive: Raw Damage", "Hero", "Kree", "A-Force", "Size: S"]
+    },
+    {
+        "code": "kamalakhan",
+        "name": "Ms. Marvel (Kamala Khan)",
+        "class": "cosmic",
+        "tags": ["Offensive: Raw Damage", "Hero", "Inhuman", "Champions", "A-Force", "Size: S"]
+    },
+    {
+        "code": "nebula",
+        "name": "Nebula",
+        "class": "tech",
+        "tags": ["Offensive: Damage Over Time", "Metal", "Robot", "Mercenary", "Size: S"]
+    },
+    {
+        "code": "nickfury",
+        "name": "Nick Fury",
+        "class": "skill",
+        "tags": ["Offensive: Damage Over Time", "Defensive: Utility", "Hero", "S.H.I.E.L.D", "Size: M"]
     },
     {
         "code": "nightcrawler",
         "name": "Nightcrawler",
         "class": "mutant",
-        "tags": ["Defensive: Utility", "Hero", "X-Men"]
+        "tags": ["Defensive: Utility", "Hero", "X-Men", "Size: M"]
     },
     {
-        "code": "phoenix",
-        "name": "Phoenix",
-        "class": "cosmic",
-        "tags": ["Offensive: Burst", "Hero", "X-Men"]
-    },
-    {
-        "code": "punisher",
-        "name": "Punisher",
+        "code": "nightthrasher",
+        "name": "Night Thrasher",
         "class": "skill",
-        "tags": ["Offensive: Damage OVer Time", "Hero", "Defenders"]
-    },
-    {
-        "code": "quake",
-        "name": "Quake",
-        "class": "science",
-        "tags": ["Offensive: Raw Damage", "Hero", "Inhuman", "S.H.I.E.L.D"]
-    },
-    {
-        "code": "redhulk",
-        "name": "Red Hulk",
-        "class": "science",
-        "tags": ["Offensive: Damage Over Time", "Villain", "Thunderbolts"]
-    },
-    {
-        "code": "rhino",
-        "name": "Rhino",
-        "class": "science",
-        "tags": ["Defensive: Tank", "Villain", "Sinister Six"]
-    },
-    {
-        "code": "rocket",
-        "name": "Rocket Raccoon",
-        "class": "tech",
-        "tags": ["Offensive: Burst", "Hero", "Guardians of the Galaxy"]
-    },
-    {
-        "code": "rogue",
-        "name": "Rogue",
-        "class": "mutant",
-        "tags": ["Control: Counter", "Hero", "X-Men", "A-Force"]
-    },
-    {
-        "code": "ronan",
-        "name": "Ronan",
-        "class": "cosmic",
-        "tags": ["Control: Counter", "Villain", "Kree"]
-    },
-    {
-        "code": "scarletwitch",
-        "name": "Scarlet Witch",
-        "class": "mystic",
-        "tags": ["Control: Denial", "Hero", "Avengers", "Civil War - Cpt. America", "A-Force"]
-    },
-    {
-        "code": "shehulk",
-        "name": "She-Hulk",
-        "class": "science",
-        "tags": ["Offensive: Raw Damage", "Hero", "A-Force"]
-    },
-    {
-        "code": "spidergwen",
-        "name": "Spider-Gwen",
-        "class": "science",
-        "tags": ["Defensive: Utility", "Hero"]
-    },
-    {
-        "code": "spiderman",
-        "name": "Spider-Man (Classic)",
-        "class": "science",
-        "tags": ["Defensive: Utility", "Hero", "New Avengers", "Civil War - Iron Man"]
-    },
-    {
-        "code": "spidermanblack",
-        "name": "Spider-Man (Symbiote)",
-        "class": "cosmic",
-        "tags": ["Defensive: Utility", "Hero", "Symbiote"]
-    },
-    {
-        "code": "spidermanmorales",
-        "name": "Spider-Man (Miles Morales)",
-        "class": "science",
-        "tags": ["Control: Denial", "Hero", "New Avengers", "Champions"]
-    },
-    {
-        "code": "starlord",
-        "name": "Star-Lord",
-        "class": "tech",
-        "tags": ["Offensive: Damage Over Time", "Hero", "Guardians of the Galaxy"]
-    },
-    {
-        "code": "storm",
-        "name": "Storm",
-        "class": "mutant",
-        "tags": ["Offensive: Burst", "Hero", "X-Men", "X-Force"]
-    },
-    {
-        "code": "superiorironman",
-        "name": "Superior Iron Man",
-        "class": "cosmic",
-        "tags": ["Defensive: Guard", "Hero", "Illuminati"]
-    },
-    {
-        "code": "thevision",
-        "name": "Vision (Age of Ultron)",
-        "class": "tech",
-        "tags": ["Control: Denial", "Hero", "Metal", "Robot", "Avengers", "Civil War - Iron Man"]
-    },
-    {
-        "code": "thor",
-        "name": "Thor",
-        "class": "cosmic",
-        "tags": ["Offensive: Burst", "Hero", "Avengers", "Chronos Corps"]
-    },
-    {
-        "code": "thorjanefoster",
-        "name": "Thor (Jane Foster)",
-        "class": "mystic",
-        "tags": ["Offensive: Burst", "Hero", "New Avengers"]
-    },
-    {
-        "code": "ultron",
-        "name": "Ultron",
-        "class": "tech",
-        "tags": ["Defensive: Utility", "Villain", "Metal", "Robot", "Villain of the Contest"]
-    },
-    {
-        "code": "ultronclassic",
-        "name": "Ultron (Classic)",
-        "class": "tech",
-        "tags": ["Defensive: Utility", "Villain", "Metal", "Robot"]
-    },
-    {
-        "code": "unstoppablecolossus",
-        "name": "Unstoppable Colossus",
-        "class": "mystic",
-        "tags": ["Defensive: Utility", "Villain", "Metal", "X-Men"]
-    },
-    {
-        "code": "venom",
-        "name": "Venom",
-        "class": "cosmic",
-        "tags": ["Defensive: Tank", "Villain", "Symbiote", "Chronos Corps"]
-    },
-    {
-        "code": "venompool",
-        "name": "Venompool",
-        "class": "cosmic",
-        "tags": ["Control: Counter", "Villain", "Symbiote"]
-    },
-    {
-        "code": "vision",
-        "name": "Vision",
-        "class": "tech",
-        "tags": ["Control: Denial", "Hero", "Metal", "Robot", "Avengers"]
-    },
-    {
-        "code": "warmachine",
-        "name": "War Machine",
-        "class": "tech",
-        "tags": ["Offensive: Damage Over Time", "Hero", "Metal", "Civil War - Iron Man"]
-    },
-    {
-        "code": "wintersoldier",
-        "name": "Winter Soldier",
-        "class": "skill",
-        "tags": ["Offensive: Raw Damage", "Mercenary", "Metal", "Civil War - Cpt. America"]
-    },
-    {
-        "code": "wolverine",
-        "name": "Wolverine",
-        "class": "mutant",
-        "tags": ["Defensive: Utility", "Hero", "Metal", "X-Men", "New Avengers", "X-Force"]
+        "tags": []
     },
     {
         "code": "wolverineoldman",
         "name": "Old Man Logan",
         "class": "mutant",
-        "tags": ["Offensive: Burst", "Hero", "Metal", "X-Men"]
+        "tags": ["Offensive: Burst", "Hero", "Metal", "X-Men", "Size: M"]
+    },
+    {
+        "code": "omegared",
+        "name": "Omega Red",
+        "class": "mutant",
+        "tags": ["Metal", "Villain", "Size: L", "Offensive: Damage Over Time"]
+    },
+    {
+        "code": "phoenix",
+        "name": "Phoenix",
+        "class": "cosmic",
+        "tags": ["Offensive: Burst", "Hero", "X-Men", "Size: S"]
+    },
+    {
+        "code": "proximamidnight",
+        "name": "Proxima Midnight",
+        "class": "cosmic",
+        "tags": ["Offensive: Burst", "Defensive: Utility", "Thanos's Army", "Size: S"]
+    },
+    {
+        "code": "psylockexforce",
+        "name": "Psylocke",
+        "class": "mutant",
+        "tags": ["Control: Denial", "Hero", "X-Men", "X-Force", "Size: S"]
+    },
+    {
+        "code": "punisher",
+        "name": "Punisher",
+        "class": "skill",
+        "tags": ["Offensive: Damage Over Time", "Hero", "Defenders", "Size: M"]
+    },
+    {
+        "code": "punisher2099",
+        "name": "Punisher 2099",
+        "class": "tech",
+        "tags": ["Control: Denial", "Metal", "Villain", "Size: M"]
+    },
+    {
+        "code": "quake",
+        "name": "Quake",
+        "class": "science",
+        "tags": ["Offensive: Raw Damage", "Hero", "Inhuman", "S.H.I.E.L.D", "Size: S"]
+    },
+    {
+        "code": "redhulk",
+        "name": "Red Hulk",
+        "class": "science",
+        "tags": ["Offensive: Damage Over Time", "Villain", "Thunderbolts", "Size: XL"]
+    },
+    {
+        "code": "redskull",
+        "name": "Red Skull",
+        "class": "tech",
+        "tags": ["Control: Denial", "Villain", "Metal", "Size: M"]
+    },
+    {
+        "code": "rhino",
+        "name": "Rhino",
+        "class": "science",
+        "tags": ["Defensive: Tank", "Villain", "Sinister Six", "Size: XL"]
+    },
+    {
+        "code": "rocket",
+        "name": "Rocket Raccoon",
+        "class": "tech",
+        "tags": ["Offensive: Burst", "Hero", "Guardians of the Galaxy", "Size: S"]
+    },
+    {
+        "code": "rogue",
+        "name": "Rogue",
+        "class": "mutant",
+        "tags": ["Control: Counter", "Hero", "X-Men", "A-Force", "Size: S"]
+    },
+    {
+        "code": "ronan",
+        "name": "Ronan",
+        "class": "cosmic",
+        "tags": ["Control: Counter", "Villain", "Kree", "Size: L"]
+    },
+    {
+        "code": "sabretooth",
+        "name": "Sabretooth",
+        "class": "mutant",
+        "tags": ["Offensive: Raw Damage", "Mercenary", "Size: L"]
+    },
+    {
+        "code": "scarletwitch",
+        "name": "Scarlet Witch",
+        "class": "mystic",
+        "tags": ["Control: Denial", "Hero", "Avengers", "A-Force", "Size: S"]
+    },
+    {
+        "code": "sentinel",
+        "name": "Sentinel",
+        "class": "tech",
+        "tags": ["Defensive: Tank", "Villain", "Metal", "Robot", "Size: XL"]
+    },
+    {
+        "code": "sentry",
+        "name": "Sentry",
+        "class": "science",
+        "tags": ["Offensive: Burst", "Hero", "Size: M"]
+    },
+    {
+        "code": "shehulk",
+        "name": "She-Hulk",
+        "class": "science",
+        "tags": ["Offensive: Raw Damage", "Hero", "A-Force", "Size: L"]
+    },
+    {
+        "code": "spidergwen",
+        "name": "Spider-Gwen",
+        "class": "science",
+        "tags": ["Defensive: Utility", "Hero", "Spider-Verse Heroes", "Size: S"]
+    },
+    {
+        "code": "spiderman",
+        "name": "Spider-Man (Classic)",
+        "class": "science",
+        "tags": ["Defensive: Utility", "Hero", "New Avengers", "Spider-Verse Heroes", "Size: S"]
+    },
+    {
+        "code": "spidermanmorales",
+        "name": "Spider-Man (Miles Morales)",
+        "class": "science",
+        "tags": ["Control: Denial", "Hero", "New Avengers", "Champions", "Spider-Verse Heroes", "Size: S"]
+    },
+    {
+        "code": "spidermanmovie",
+        "name": "Spider-Man (Stark Enhanced)",
+        "class": "tech",
+        "tags": ["Defensive: Utility", "Hero", "Metal", "Spider-Verse Heroes", "Size: S"]
+    },
+    {
+        "code": "spidermanblack",
+        "name": "Spider-Man (Symbiote)",
+        "class": "cosmic",
+        "tags": ["Defensive: Utility", "Hero", "Symbiote", "Spider-Verse Heroes", "Size: S"]
+    },
+    {
+        "code": "starlord",
+        "name": "Star-Lord",
+        "class": "tech",
+        "tags": ["Offensive: Damage Over Time", "Hero", "Guardians of the Galaxy", "Size: M"]
+    },
+    {
+        "code": "storm",
+        "name": "Storm",
+        "class": "mutant",
+        "tags": ["Offensive: Burst", "Hero", "X-Men", "X-Force", "Size: S"]
+    },
+    {
+        "code": "superiorironman",
+        "name": "Superior Iron Man",
+        "class": "cosmic",
+        "tags": ["Defensive: Guard", "Hero", "Illuminati", "Size: M"]
+    },
+    {
+        "code": "symbiotesupreme",
+        "name": "Symbiote Supreme",
+        "class": "science",
+        "tags": ["Control: Counter", "Symbiote", "Size: M"]
+    },
+    {
+        "code": "taskmaster",
+        "name": "Taskmaster",
+        "class": "skill",
+        "tags": ["Control: Denial", "Mercenary", "Thunderbolts", "Villain", "Size: M"]
+    },
+    {
+        "code": "thanos",
+        "name": "Thanos",
+        "class": "cosmic",
+        "tags": ["Defensive: Tank", "Villain", "Villain of the Contest", "Size: XL"]
+    },
+    {
+        "code": "thechampion",
+        "name": "The Champion",
+        "class": "cosmic",
+        "tags": ["Defensive: Utility", "Size: L", "Elder"]
+    },
+    {
+        "code": "hood",
+        "name": "The Hood",
+        "class": "mystic",
+        "tags": ["Control: Counter", "Villain", "Dimensional Being", "Size: M"]
+    },
+    {
+        "code": "thing",
+        "name": "Thing",
+        "class": "science",
+        "tags": ["Defensive: Tank", "Hero", "Size: XL", "Fantastic Four"]
+    },
+    {
+        "code": "thor",
+        "name": "Thor",
+        "class": "cosmic",
+        "tags": ["Offensive: Burst", "Hero", "Avengers", "Chronos Corps", "Size: L"]
+    },
+    {
+        "code": "thorjanefoster",
+        "name": "Thor (Jane Foster)",
+        "class": "mystic",
+        "tags": ["Offensive: Burst", "Hero", "New Avengers", "Size: S"]
+    },
+    {
+        "code": "thorragnarok",
+        "name": "Thor (Ragnarok)",
+        "class": "skill",
+        "tags": ["Defensive: Utility", "Metal", "Hero", "Avengers", "Size: L"]
+    },
+    {
+        "code": "ultron",
+        "name": "Ultron",
+        "class": "tech",
+        "tags": ["Defensive: Utility", "Villain", "Metal", "Robot", "Villain of the Contest", "Size: L"]
+    },
+    {
+        "code": "ultronclassic",
+        "name": "Ultron (Classic)",
+        "class": "tech",
+        "tags": ["Defensive: Utility", "Villain", "Metal", "Robot", "Size: M"]
+    },
+    {
+        "code": "unstoppablecolossus",
+        "name": "Unstoppable Colossus",
+        "class": "mystic",
+        "tags": ["Defensive: Utility", "Villain", "Metal", "X-Men", "Size: L"]
+    },
+    {
+        "code": "venom",
+        "name": "Venom",
+        "class": "cosmic",
+        "tags": ["Defensive: Tank", "Villain", "Symbiote", "Chronos Corps", "Size: XL"]
+    },
+    {
+        "code": "venomduck",
+        "name": "Venom The Duck",
+        "class": "cosmic",
+        "tags": ["Offensive: Damage Over Time", "Villain", "Symbiote", "Size: XL"]
+    },
+    {
+        "code": "venompool",
+        "name": "Venompool",
+        "class": "cosmic",
+        "tags": ["Control: Counter", "Villain", "Symbiote", "Size: XL"]
+    },
+    {
+        "code": "vision",
+        "name": "Vision",
+        "class": "tech",
+        "tags": ["Control: Denial", "Hero", "Metal", "Robot", "Avengers", "Size: M"]
+    },
+    {
+        "code": "thevision",
+        "name": "Vision (Age of Ultron)",
+        "class": "tech",
+        "tags": ["Control: Denial", "Hero", "Metal", "Robot", "Avengers", "Size: M"]
+    },
+    {
+        "code": "void",
+        "name": "Void",
+        "class": "science",
+        "tags": ["Defensive: Utility", "Offensive: Damage Over Time", "Villain", "Size: M"]
+    },
+    {
+        "code": "vulture",
+        "name": "Vulture",
+        "class": "tech",
+        "tags": ["Control: Counter", "Villain", "Metal", "Sinister Six", "Size: M"]
+    },
+    {
+        "code": "warmachine",
+        "name": "War Machine",
+        "class": "tech",
+        "tags": ["Offensive: Damage Over Time", "Hero", "Metal", "Size: M"]
+    },
+    {
+        "code": "wasp",
+        "name": "Wasp",
+        "class": "science",
+        "tags": ["Offensive: Burst", "Hero", "Metal", "Size: S"]
+    },
+    {
+        "code": "wintersoldier",
+        "name": "Winter Soldier",
+        "class": "skill",
+        "tags": ["Offensive: Raw Damage", "Mercenary", "Metal", "Size: M"]
+    },
+    {
+        "code": "wolverine",
+        "name": "Wolverine",
+        "class": "mutant",
+        "tags": ["Defensive: Utility", "Hero", "Metal", "X-Men", "New Avengers", "X-Force", "Size: M"]
     },
     {
         "code": "x23",
         "name": "Wolverine (X-23)",
         "class": "mutant",
-        "tags": ["Offensive: Damage Over Time", "Hero", "Metal", "Thunderbolts", "X-Force"]
+        "tags": ["Offensive: Damage Over Time", "Hero", "Metal", "Thunderbolts", "X-Force", "X-Men", "Size: S"]
     },
     {
         "code": "yellowjacket",
         "name": "Yellowjacket",
         "class": "science",
-        "tags": ["Control: Denial", "Villain", "Metal", "Villain of the Contest"]
+        "tags": ["Control: Denial", "Villain", "Metal", "Villain of the Contest", "Size: M"]
+    },
+    {
+        "code": "yondu",
+        "name": "Yondu",
+        "class": "tech",
+        "tags": ["Defensive: Utility", "Mercenary", "Size: M"]
     }
 ]
