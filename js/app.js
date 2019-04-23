@@ -3,7 +3,7 @@
     var availableTags = [];
     var availableChampions = [];
 
-    var tagsReceived = $.get('../json/data.json').then(function (data) {
+    var tagsReceived = $.get('json/data.json').then(function (data) {
         var uniqueTags = {};
         data.forEach(function (champion) {
            champion.tags.forEach(function (tag) {
