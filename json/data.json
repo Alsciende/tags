@@ -27,13 +27,13 @@
         "code": "annihilus",
         "name": "Annihilus",
         "class": "cosmic",
-        "tags": []
+        "tags": ["Offensive: Burst", "Villain", "Size: M"]
     },
     {
         "code": "antman",
         "name": "Ant-Man",
         "class": "science",
-        "tags": ["Defensive: Tank", "Hero", "Metal", "Size: M"]
+        "tags": ["Defensive: Tank", "Hero", "Metal", "Avengers", "Size: M"]
     },
     {
         "code": "archangel",
@@ -567,7 +567,7 @@
         "code": "nightthrasher",
         "name": "Night Thrasher",
         "class": "skill",
-        "tags": []
+        "tags": ["Offensive: Burst", "Hero", "Size: M"]
     },
     {
         "code": "wolverineoldman",
