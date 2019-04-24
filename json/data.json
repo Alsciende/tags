@@ -195,7 +195,7 @@
         "code": "diablo",
         "name": "Diablo",
         "class": "mystic",
-        "tags": []
+        "tags": ["Control: Counter", "Villain", "Size: M"]
     },
     {
         "code": "docock",
