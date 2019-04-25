@@ -49,6 +49,7 @@
         list.forEach(function (champion) {
             displayChampion(champion, selectedTags);
         });
+        $('#counter').text(list.length);
     }
 
     function displayChampion(champion, selectedTags) {
