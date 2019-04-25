@@ -2,6 +2,7 @@
 
     var availableTags = [];
     var availableChampions = [];
+    var sortingAttribute = "name";
 
     var tagsReceived = $.get('json/data.json').then(function (data) {
         var uniqueTags = {};
@@ -27,6 +28,10 @@
             enableCaseInsensitiveFiltering: true,
             onChange: refreshList
         });
+        $('#sorting').click(function (e) {
+          sortingAttribute = $(e.target).attr('id');
+          refreshList();
+        });
         refreshList();
     });
 
@@ -36,7 +41,11 @@
                 selectedOptions.each(function (index, elt) {
                     selectedTags.push($(elt).val());
                 });
-                var filteredChampions = availableChampions.filter(function (champion) {
+                var filteredChampions = availableChampions
+                  .sort(function (a, b) {
+                      return a[sortingAttribute].localeCompare(b[sortingAttribute]);
+                  })
+                  .filter(function (champion) {
                     return selectedTags.every(function (selectedTag) {
                         return champion.tags.includes(selectedTag);
                     });
