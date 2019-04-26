@@ -65,13 +65,13 @@
         var $div = $('<div class="champion">');
         $div.addClass(champion.class);
 
-        $img = $('<img class="portrait">').attr('src', 'http://hook.github.io/champions/images/champions/portrait_'+champion.code+'.png');
+        $img = $('<img class="portrait">').attr('src', 'https://hook.github.io/champions/images/champions/portrait_'+champion.code+'.png');
         $div.prepend($img);
 
-        $text = $('<div class="text">').appendTo($div);
-        $name = $('<div class="name">').text(champion.name).appendTo($text);
+        // $text = $('<div class="text">').appendTo($div);
+        $name = $('<div class="name">').text(champion.name).appendTo($div);
 
-        $tags = $('<div class="tags">').appendTo($text);
+        $tags = $('<div class="tags">').appendTo($div);
         champion.tags.forEach(function (tag) {
             $span = $('<span class="tag">').text('#'+tag).appendTo($tags);
             if(selectedTags.includes(tag)) {
