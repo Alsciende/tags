@@ -1,52 +1,69 @@
-div.champion {
-    height: 40px;
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,600');
+
+body {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+}
+
+.champion {
     border-style: solid;
     border-color: gray;
     border-width: 0 0 0 5px;
-    margin: 5px;
-    padding-left: 5px;
-    white-space: nowrap;
-    
+    margin: 10px 0;
+    padding: 5px 5px 10px 60px;
+    position: relative;
 }
-div.mystic {
-    border-color: #90f;
+.mystic {
+    border-color: rgb(153, 0, 255);
+    background: rgba(153, 0, 255, 0.1);
 }
-div.cosmic {
-    border-color: #3af;
+.cosmic {
+    border-color: rgb(51, 170, 255);
+    background: rgba(51, 170, 255, 0.1);
 }
-div.tech {
-    border-color: #23f;
+.tech {
+    border-color: rgb(34, 51, 255);
+    background: rgba(34, 51, 255, 0.1);
 }
-div.mutant {
-    border-color: #fa0;
+.mutant {
+    border-color: rgb(255, 170, 0);
+    background: rgba(255, 170, 0, 0.1);
 }
-div.skill {
-    border-color: #f30;
+.skill {
+    border-color: rgb(255, 51, 0);
+    background: rgba(255, 51, 0, 0.1);
 }
-div.science {
-    border-color: #0a0;
+.science {
+    border-color: rgb(0, 170, 0);
+    background: rgba(0, 170, 0, 0.1);
 }
-img.portrait {
-    display: inline-block;
+
+.portrait {
     vertical-align: top;
     height: 40px;
+    position: absolute;
+    top: 50%;
+    margin-top: -20px;
+    left: 5px;
 }
-div.text {
-    display: inline-block;
-    padding-left: 5px;
+.name {
+    font-size: 26px;
+    line-height: 1em;
+    margin-bottom: 5px;
+    font-weight: 600;
 }
-div.name {
+.tags {
     font-size: 16px;
-    line-height: 20px;
-}
-div.tags {
-    font-size: 12px;
-    line-height: 14px;
+    line-height: 1.2em;
     overflow: hidden;
 }
-span.tag {
-    margin-left: 5px;
+
+.tag {
+    margin-right: 5px;
+    display: inline-block;
 }
-span.tag.matched {
-    color: lightgrey;
+.tag.matched {
+    color: black;
+    font-weight: 600;
 }
+
