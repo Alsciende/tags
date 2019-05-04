@@ -150,6 +150,12 @@
         "tags": ["Offensive: Raw Damage", "Villain", "Metal", "Size: L", "Year: 2016"]
     },
     {
+        "code": "cullobsidian",
+        "name": "Cull Obsidian",
+        "class": "cosmic",
+        "tags": ["Metal", "Thanos's Army", "Size: XL", "Year: 2019"]
+    },
+    {
         "code": "cyclops",
         "name": "Cyclops (New Xavier School)",
         "class": "mutant",
@@ -232,6 +238,12 @@
         "name": "Drax",
         "class": "cosmic",
         "tags": ["Offensive: Damage Over Time", "Hero", "Guardians of the Galaxy", "Size: L", "Year: 2015"]
+    },
+    {
+        "code": "ebonymaw",
+        "name": "Ebony Maw",
+        "class": "mystic",
+        "tags": ["Defensive: Utility", "Thanos's Army", "Size: M", "Year: 2019"]
     },
     {
         "code": "electro",
@@ -652,6 +664,12 @@
         "name": "Ronan",
         "class": "cosmic",
         "tags": ["Control: Counter", "Villain", "Kree", "Size: L", "Year: 2015"]
+    },
+    {
+        "code": "ronin",
+        "name": "Ronin",
+        "class": "skill",
+        "tags": ["Offensive: Damage Over Time", "Hero", "Avengers", "Size: M", "Year: 2019"]
     },
     {
         "code": "sabretooth",
